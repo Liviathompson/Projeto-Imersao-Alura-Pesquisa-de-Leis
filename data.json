@@ -1,0 +1,93 @@
+[
+    {
+        "nome": "Constituição Federal",
+        "descricao": "A lei suprema do Brasil. Garante direitos fundamentais, organiza o Estado e define os poderes.",
+        "lei": "Promulgada em 1988",
+        "area": "Direito Constitucional",
+        "link": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+    },
+    {
+        "nome": "Código Civil",
+        "descricao": "Regula os direitos e obrigações das pessoas, dos bens, da família e das sucessões.",
+        "lei": "Lei nº 10.406 de 2002",
+        "area": "Direito Civil",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+    },
+    {
+        "nome": "Código de Processo Civil",
+        "descricao": "Define como correm os processos judiciais civis (não criminais) no Brasil.",
+        "lei": "Lei nº 13.105 de 2015",
+        "area": "Direito Processual Civil",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+    },
+    {
+        "nome": "Código Penal",
+        "descricao": "Conjunto de normas que define o que é crime e quais são as penas aplicáveis.",
+        "lei": "Decreto-Lei nº 2.848 de 1940",
+        "area": "Direito Penal",
+        "link": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+    },
+    {
+        "nome": "Código de Processo Penal",
+        "descricao": "Regula a investigação e o processo judicial para julgar crimes e aplicar penas.",
+        "lei": "Decreto-Lei nº 3.689 de 1941",
+        "area": "Direito Processual Penal",
+        "link": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm"
+    },
+    {
+        "nome": "Código de Defesa do Consumidor",
+        "descricao": "Estabelece normas de proteção e defesa do consumidor nas relações de compra e serviço.",
+        "lei": "Lei nº 8.078 de 1990",
+        "area": "Direito do Consumidor",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/l8078.htm"
+    },
+    {
+        "nome": "CLT",
+        "descricao": "Consolidação das Leis do Trabalho. Regula as relações entre empregadores e empregados.",
+        "lei": "Decreto-Lei nº 5.452 de 1943",
+        "area": "Direito do Trabalho",
+        "link": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm"
+    },
+    {
+        "nome": "ECA",
+        "descricao": "Estatuto da Criança e do Adolescente. Protege integralmente crianças e adolescentes.",
+        "lei": "Lei nº 8.069 de 1990",
+        "area": "Direitos Humanos",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm"
+    },
+    {
+        "nome": "Lei Maria da Penha",
+        "descricao": "Cria mecanismos para coibir a violência doméstica e familiar contra a mulher.",
+        "lei": "Lei nº 11.340 de 2006",
+        "area": "Direito Penal / Humanos",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+        "nome": "Código de Trânsito",
+        "descricao": "Define infrações, regras de circulação e penalidades para o trânsito brasileiro.",
+        "lei": "Lei nº 9.503 de 1997",
+        "area": "Direito de Trânsito",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm"
+    },
+    {
+        "nome": "Estatuto do Idoso",
+        "descricao": "Regula os direitos assegurados às pessoas com idade igual ou superior a 60 anos.",
+        "lei": "Lei nº 10.741 de 2003",
+        "area": "Direitos Humanos",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.741.htm"
+    },
+    {
+        "nome": "Código Tributário Nacional",
+        "descricao": "Dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário.",
+        "lei": "Lei nº 5.172 de 1966",
+        "area": "Direito Tributário",
+        "link": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+    },
+    {
+        "nome": "LGPD",
+        "descricao": "Lei Geral de Proteção de Dados. Regula o tratamento de dados pessoais no Brasil.",
+        "lei": "Lei nº 13.709 de 2018",
+        "area": "Direito Digital",
+        "link": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm"
+    }
+]

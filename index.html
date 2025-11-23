@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Pesquisa de Leis - Base Jurídica</title>
+</head>
+<body>
+    <header>
+        <h1>Pesquisa de Leis ⚖️</h1>
+        
+        <div class="search-box">
+            <input type="text" id="campo-busca" placeholder="Busque por lei, crime ou área...">
+            <button id="botao-busca" onclick="iniciarBusca()">Pesquisar</button>
+        </div>
+
+        <div class="quick-filters">
+            <span>Filtros rápidos:</span>
+            <button onclick="filtroRapido('Penal')">Penal</button>
+            <button onclick="filtroRapido('Civil')">Civil</button>
+            <button onclick="filtroRapido('Trabalho')">Trabalho</button>
+            <button onclick="filtroRapido('Consumidor')">Consumidor</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <p class="mensagem-inicial">Digite um termo ou clique em um filtro para começar.</p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <p>Desenvolvido para o Concurso de Projetos</p>
+            </li>
+        </ul>
+    </footer>
+
+   <script src="script.js"></script>
+</body>
+</html>
